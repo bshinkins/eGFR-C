@@ -1,4 +1,4 @@
-#Dialysis Model Parameters
+#Model Parameters
 
 
 parameter_draw  <- function() { 
